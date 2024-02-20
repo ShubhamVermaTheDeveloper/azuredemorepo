@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/81ff306b-8f69-4eba-b924-816ab6e8fef6/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/shubhamreactazurewebapp",
+  "appService.deploySubpath": "."
+}
